@@ -2,8 +2,6 @@
 
 
 A simple quiz application built in Java to practice creating graphical user interfaces using Swing and AWT.
-
-
 ## Features
 
 - 10 multiple-choice questions on various topics.
