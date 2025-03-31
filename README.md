@@ -1,6 +1,8 @@
 # Java Quiz Application
 
+
 A simple quiz application built in Java to practice creating graphical user interfaces using Swing and AWT.
+
 
 ## Features
 
