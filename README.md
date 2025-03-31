@@ -21,6 +21,7 @@ Follow these steps to run the quiz application on your local machine:
 
 
 
+
 ## Contributing
 
 Contributions are welcome! If you'd like to add more questions, improve the UI, or fix issues, follow these steps:
